@@ -1529,5 +1529,15 @@
   "foodstore.config.hardmode": "困难模式",
   "foodstore.config.hardmodeText": "有时候，人们就是会对自己的购买行为耍耍性子。",
   "foodstore.config.disablesellnotice": "禁用出售通知？",
-  "foodstore.config.disablesellnoticeText": "在聊天框中禁用出售通知"
+  "foodstore.config.disablesellnoticeText": "在聊天框中禁用出售通知",
+    "foodstore.config.reset-progress": "重置集镇进度",
+    "foodstore.config.auto-fix-npc": "自动修复卡住的/错误NPC",
+    "foodstore.config.debug": "***调试",
+    "foodstore.config.debug-description": "这只是为了测试而做的。我也不知道它会有什么效果……",
+    "foodstore.config.log-offset-x": "日志菜单X偏移",
+    "foodstore.config.log-offset-y": "日志菜单Y偏移",
+    "foodstore.config.log-width": "日志菜单宽度",
+    "foodstore.config.log-height": "日志菜单高度",
+    "foodstore.config.log-rows": "行数",
+    "foodstore.config.log-line-spacing": "行间距"
 }

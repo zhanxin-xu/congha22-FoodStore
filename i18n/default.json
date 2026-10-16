@@ -1797,7 +1797,15 @@
   "foodstore.config.hardmodeText":                    "Sometime people just choose to be sassy about their purchase.",
 
   "foodstore.config.disablesellnotice":               "Disable sell notice?",
-  "foodstore.config.disablesellnoticeText":           "Disable sell notice in chatbox"
-
-
+  "foodstore.config.disablesellnoticeText":           "Disable sell notice in chatbox",
+  "foodstore.config.reset-progress": "Reset Market Town progress",
+  "foodstore.config.auto-fix-npc": "Auto fix stuck/error NPC",
+  "foodstore.config.debug": "***DEBUG",
+  "foodstore.config.debug-description": "This is just made for my testing. Who know what it does...",
+  "foodstore.config.log-offset-x": "Log Menu Offset X",
+  "foodstore.config.log-offset-y": "Log Menu Offset Y",
+  "foodstore.config.log-width": "Log Menu Width",
+  "foodstore.config.log-height": "Log Menu Height",
+  "foodstore.config.log-rows": "Number of Row",
+  "foodstore.config.log-line-spacing": "Line space"
 }
